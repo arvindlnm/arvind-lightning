@@ -1,0 +1,3 @@
+<apex:page standardController="Account" >
+    <analytics:reportChart reportId="00O28000009joP7"></analytics:reportChart>
+</apex:page>
